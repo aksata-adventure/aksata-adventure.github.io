@@ -6,7 +6,7 @@ body {
 
 body {
   /* background: url('niilo-isotalo-8Cpt0rYRt90-unsplash.jpg') no-repeat center center fixed; */
-  background: linear-gradient(180deg, rgba(65,0,0,1) 0%, rgba(235,85,68,1) 100%) no-repeat center center fixed;
+  background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%) no-repeat center center fixed;
   display: grid;
   place-items: center;
   font-family: 'Inter', sans-serif;
